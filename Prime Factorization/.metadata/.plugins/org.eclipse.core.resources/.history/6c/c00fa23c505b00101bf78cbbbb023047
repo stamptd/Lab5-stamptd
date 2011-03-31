@@ -1,0 +1,21 @@
+
+import java.util.ArrayList;
+
+import org.junit.Test;
+
+
+public class TestPrimeNumberGenerator {
+	@Test
+	public void testOne(){
+		assertEqual(list(),TestPrimeNumberGenerator.generatePrimes(1));
+	}
+	
+	private ArrayList<Integer> list(int ... ints) {
+		ArrayList<Integer> ret = new ArrayList<Integer>();
+		for(int i: ints){
+			ret.add(i);
+		}
+		return ret;
+	}
+
+}
