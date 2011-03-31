@@ -3,9 +3,12 @@ import java.util.ArrayList;
 
 public class PrimeNumberGenerator {
 
-	
-	static ArrayList<Integer> generatePrimes(int i) {
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
 		return new ArrayList<Integer>();
+
 	}
 
 }

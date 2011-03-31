@@ -1,0 +1,12 @@
+import java.util.ArrayList;
+
+
+public class PrimeNumberGenerator {
+
+	
+	private static ArrayList<Integer> generatePrimes(int i) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
