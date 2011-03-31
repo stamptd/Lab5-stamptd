@@ -7,7 +7,7 @@ public class PrimeFactorization {
 		ArrayList<Integer> ret = new ArrayList<Integer>();
 		for(int j = i; j > 1; j--){
 			while(i%j == 0){
-				ret.add(j);
+				ret.add(2);
 				i = i/j;
 			}
 		}
