@@ -12,7 +12,7 @@ public class PrimeNumberGenerator {
 			if(basket[i] == 0){
 				ret.add(i);
 				for(int j = i*i ; j < input; j+=i){
-					basket[j] = 1;
+					basket[j] = 0;
 				}
 			}
 		}
