@@ -23,11 +23,9 @@ public class TestPrimeFactorization {
 	public void TestThree(){
 		assertEquals(list(3),PrimeFactorization.primeFactors(3));
 	}
-	@Test
 	public void TestFour(){
 		assertEquals(list(2,2),PrimeFactorization.primeFactors(4));
 	}
-	
 	public void TestSix(){
 		assertEquals(list(2,3),PrimeFactorization.primeFactors(4));
 	}
