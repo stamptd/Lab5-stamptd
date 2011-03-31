@@ -27,9 +27,9 @@ public class TestPrimeFactorization {
 	public void TestFour(){
 		assertEquals(list(2,2),PrimeFactorization.primeFactors(4));
 	}
-	@Test
+	
 	public void TestSix(){
-		assertEquals(list(2,3),PrimeFactorization.primeFactors(6));
+		assertEquals(list(2,3),PrimeFactorization.primeFactors(4));
 	}
 	private ArrayList<Integer> list(int ... ints) {
 		ArrayList<Integer> ret = new ArrayList<Integer>();
