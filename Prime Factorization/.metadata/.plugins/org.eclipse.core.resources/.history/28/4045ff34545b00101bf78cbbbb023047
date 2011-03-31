@@ -15,9 +15,6 @@ public class TestPrimeNumberGenerator {
 		assertEquals(list(),PrimeNumberGenerator.generatePrimes(2));
 		
 	}
-	@Test public void testThree(){
-		assertEquals(list(),PrimeNumberGenerator.generatePrimes(2));
-	}
 	
 
 	private ArrayList<Integer> list(int ... ints) {
