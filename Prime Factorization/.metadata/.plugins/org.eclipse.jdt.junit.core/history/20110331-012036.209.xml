@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testrun name="Lab5" project="Lab5" tests="14" started="14" failures="0" errors="0" ignored="0">
+  <testsuite name="TestPrimeFactorization" time="0.003">
+    <testcase name="testJUnit" classname="TestPrimeFactorization" time="0.0"/>
+    <testcase name="testOne" classname="TestPrimeFactorization" time="0.0"/>
+    <testcase name="testTwo" classname="TestPrimeFactorization" time="0.0"/>
+    <testcase name="TestThree" classname="TestPrimeFactorization" time="0.0"/>
+    <testcase name="TestFour" classname="TestPrimeFactorization" time="0.0"/>
+    <testcase name="TestSix" classname="TestPrimeFactorization" time="0.0"/>
+    <testcase name="TestEight" classname="TestPrimeFactorization" time="0.0"/>
+    <testcase name="TestNine" classname="TestPrimeFactorization" time="0.001"/>
+    <testcase name="Test325115" classname="TestPrimeFactorization" time="0.002"/>
+  </testsuite>
+  <testsuite name="TestPrimeNumberGenerator" time="0.001">
+    <testcase name="testOne" classname="TestPrimeNumberGenerator" time="0.0"/>
+    <testcase name="testTwo" classname="TestPrimeNumberGenerator" time="0.0"/>
+    <testcase name="testThree" classname="TestPrimeNumberGenerator" time="0.0"/>
+    <testcase name="testFour" classname="TestPrimeNumberGenerator" time="0.001"/>
+    <testcase name="TestFive" classname="TestPrimeNumberGenerator" time="0.0"/>
+  </testsuite>
+</testrun>
