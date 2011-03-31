@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testrun name="Lab5" project="Lab5" tests="6" started="6" failures="0" errors="0" ignored="0">
+  <testsuite name="TestPrimeFactorization" time="0.0">
+    <testcase name="testJUnit" classname="TestPrimeFactorization" time="0.0"/>
+    <testcase name="testOne" classname="TestPrimeFactorization" time="0.0"/>
+    <testcase name="testTwo" classname="TestPrimeFactorization" time="0.0"/>
+    <testcase name="TestThree" classname="TestPrimeFactorization" time="0.0"/>
+    <testcase name="TestFour" classname="TestPrimeFactorization" time="0.0"/>
+    <testcase name="TestSix" classname="TestPrimeFactorization" time="0.0"/>
+  </testsuite>
+</testrun>
